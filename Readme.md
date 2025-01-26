@@ -23,7 +23,8 @@ Addon to make setting blue spells easier. Currently only works as blu main.
 **Changes:**
 v2 (Neqsal)
  * Added subjob support
- * Cleaned up help menu
+ * Cleaned up currentlist print
+ * Cleaned up help print
  * Added some new code
  * Cleaned up some old code
  * More stuff to do but doesnt matter too much...
